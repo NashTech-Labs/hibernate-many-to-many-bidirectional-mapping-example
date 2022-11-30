@@ -2,7 +2,7 @@
 
 What you'll need
 
-* JDK 1.7 or later
+* JDK 1.8 or later
  *   Maven 3 or later
   *  Hibernate 4.3.11.Final
 
